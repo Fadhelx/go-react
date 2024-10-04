@@ -1,0 +1,26 @@
+# Environment variables
+.env
+
+# JetBrains IDE settings
+.idea/
+
+# Jet client specific settings
+.jetclient/
+
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files and directories
+tmp/
+
+# Go build artifacts
+*.exe
+*.out
+*.a
+
+# Vim/Emacs backup files
+*~
+*.swp
